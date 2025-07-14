@@ -54,3 +54,5 @@ Whether you’re an established vendor or new to darknet trade, investing in **A
 
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/symbols/file.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/symbols/snapshot.webp" alt="Abacus Register" style="max-width: 100%;"></a> 
+
+Update: link is active and clickable
